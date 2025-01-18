@@ -1,0 +1,14 @@
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\bin\Debug\net8.0\INfluenceScore_Weighted.exe
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\bin\Debug\net8.0\INfluenceScore_Weighted.deps.json
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\bin\Debug\net8.0\INfluenceScore_Weighted.runtimeconfig.json
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\bin\Debug\net8.0\INfluenceScore_Weighted.dll
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\bin\Debug\net8.0\INfluenceScore_Weighted.pdb
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\obj\Debug\net8.0\INfluenceScore_Weighted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\obj\Debug\net8.0\INfluenceScore_Weighted.AssemblyInfoInputs.cache
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\obj\Debug\net8.0\INfluenceScore_Weighted.AssemblyInfo.cs
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\obj\Debug\net8.0\INfluenceScore_Weighted.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\obj\Debug\net8.0\INfluenceScore_Weighted.dll
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\obj\Debug\net8.0\refint\INfluenceScore_Weighted.dll
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\obj\Debug\net8.0\INfluenceScore_Weighted.pdb
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\obj\Debug\net8.0\INfluenceScore_Weighted.genruntimeconfig.cache
+C:\Users\james\OneDrive - Sheffield Hallam University\Algorithims and Datastructures\Assessment\InfluenceScore_Weighted_Project3_2\INfluenceScore_Weighted\obj\Debug\net8.0\ref\INfluenceScore_Weighted.dll
